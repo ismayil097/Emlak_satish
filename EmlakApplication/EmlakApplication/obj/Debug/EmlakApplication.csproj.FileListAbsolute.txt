@@ -1,0 +1,10 @@
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\bin\Debug\EmlakApplication.exe.config
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\bin\Debug\EmlakApplication.exe
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\bin\Debug\EmlakApplication.pdb
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.csprojResolveAssemblyReference.cache
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.Form1.resources
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.Properties.Resources.resources
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.csproj.GenerateResource.Cache
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.exe
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.pdb
+c:\users\iso\documents\visual studio 2017\Projects\EmlakApplication\EmlakApplication\obj\Debug\EmlakApplication.Form2.resources
